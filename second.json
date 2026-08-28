@@ -1,0 +1,167 @@
+[
+  {
+    "oberthema": ["Analytische Geometrie"],
+    "unterthema": ["Abstand zweier Punkte"],
+    "frage": "Berechnen Sie den Abstand zwischen den Punkten mit den Koordinaten $(2|-2|1)$ und $(1|0|3)$.",
+    "img_url": null,
+    "loesungsvorschlag": "Abstand $=\\sqrt{(-1)^2+2^2+2^2}=3$.",
+    "punkte": 1,
+    
+    "sauce_fragenummer": "1a",
+
+    "sauce_aufgaben_pdf_url": "https://eursc.sharepoint.com/sites/bacpastexams/PastExams/Forms/AllItems.aspx?id=%2Fsites%2Fbacpastexams%2FPastExams%2F2026%20MATH%205P%20A%20DE.pdf&parent=%2Fsites%2Fbacpastexams%2FPastExams",
+    "sauce_loesung_pdf_url": "https://eursc.sharepoint.com/sites/bacpastexams/PastExams/Forms/AllItems.aspx?id=%2Fsites%2Fbacpastexams%2FPastExams%2F2026%20MATH%205%20A%20DE%20L%C3%B6sung.pdf&parent=%2Fsites%2Fbacpastexams%2FPastExams",
+    "sauce_bac": "BAC 2026",
+    "teil": "A-Teil"
+  },
+  {
+    "oberthema": ["Analysis"],
+    "unterthema": ["Ableitung"],
+    "frage": "Gegeben sei die Funktion $f$ durch $$f(x)=3x^2-4x.$$ Bestimmen Sie einen Ausdruck für die Ableitungsfunktion von $f$.",
+    "img_url": null,
+    "loesungsvorschlag": "$$f'(x)=6x-4$$",
+    "punkte": 1,
+    
+    "sauce_fragenummer": "1b",
+
+    "sauce_aufgaben_pdf_url": "https://eursc.sharepoint.com/sites/bacpastexams/PastExams/Forms/AllItems.aspx?id=%2Fsites%2Fbacpastexams%2FPastExams%2F2026%20MATH%205P%20A%20DE.pdf&parent=%2Fsites%2Fbacpastexams%2FPastExams",
+    "sauce_loesung_pdf_url": "https://eursc.sharepoint.com/sites/bacpastexams/PastExams/Forms/AllItems.aspx?id=%2Fsites%2Fbacpastexams%2FPastExams%2F2026%20MATH%205%20A%20DE%20L%C3%B6sung.pdf&parent=%2Fsites%2Fbacpastexams%2FPastExams",
+    "sauce_bac": "BAC 2026",
+    "teil": "A-Teil"
+  },
+  {
+    "oberthema": ["Stochastik"],
+    "unterthema": ["Binomialverteilung", "Standardabweichung"],
+    "frage": "$X$ ist eine Zufallsvariable, die einer Binomialverteilung mit $n=100$ und $p=0{,}2$ folgt. Berechnen Sie die Standardabweichung $\\sigma(X)$.",
+    "img_url": null,
+    "loesungsvorschlag": "$$\\sigma(X)=\\sqrt{npq}=\\sqrt{100\\cdot0{,}2\\cdot0{,}8}=\\sqrt{16}=4$$",
+    "punkte": 1,
+    
+    "sauce_fragenummer": "1c",
+
+    "sauce_aufgaben_pdf_url": "https://eursc.sharepoint.com/sites/bacpastexams/PastExams/Forms/AllItems.aspx?id=%2Fsites%2Fbacpastexams%2FPastExams%2F2026%20MATH%205P%20A%20DE.pdf&parent=%2Fsites%2Fbacpastexams%2FPastExams",
+    "sauce_loesung_pdf_url": "https://eursc.sharepoint.com/sites/bacpastexams/PastExams/Forms/AllItems.aspx?id=%2Fsites%2Fbacpastexams%2FPastExams%2F2026%20MATH%205%20A%20DE%20L%C3%B6sung.pdf&parent=%2Fsites%2Fbacpastexams%2FPastExams",
+    "sauce_bac": "BAC 2026",
+    "teil": "A-Teil"
+  },
+  {
+    "oberthema": ["Analysis"],
+    "unterthema": ["Integration", "Bestimmtes Integral"],
+    "frage": "Berechnen Sie $\\displaystyle\\int_0^1\\frac{1}{x+1}\\,dx$.",
+    "img_url": null,
+    "loesungsvorschlag": "$$\\int_0^1\\frac{1}{x+1}\\,dx=\\left[\\ln(x+1)\\right]_0^1=\\ln(2)-\\ln(1)=\\ln(2).$$",
+    "punkte": 2,
+    
+    "sauce_fragenummer": "1d",
+
+    "sauce_aufgaben_pdf_url": "https://eursc.sharepoint.com/sites/bacpastexams/PastExams/Forms/AllItems.aspx?id=%2Fsites%2Fbacpastexams%2FPastExams%2F2026%20MATH%205P%20A%20DE.pdf&parent=%2Fsites%2Fbacpastexams%2FPastExams",
+    "sauce_loesung_pdf_url": "https://eursc.sharepoint.com/sites/bacpastexams/PastExams/Forms/AllItems.aspx?id=%2Fsites%2Fbacpastexams%2FPastExams%2F2026%20MATH%205%20A%20DE%20L%C3%B6sung.pdf&parent=%2Fsites%2Fbacpastexams%2FPastExams",
+    "sauce_bac": "BAC 2026",
+    "teil": "A-Teil"
+  },
+  {
+    "oberthema": ["Analysis"],
+    "unterthema": ["Integralrechnung", "Rotationskörper", "Volumen"],
+    "frage": "Gegeben ist die Funktion $g$ durch $$g(x)=\\sqrt{2x-2}.$$ Bestimmen Sie das Volumen des Rotationskörpers, der durch eine vollständige Rotation des Graphen von $g$ um die $x$-Achse entsteht, für $1\\leq x\\leq4$.",
+    "img_url": null,
+    "loesungsvorschlag": "$$V=\\pi\\int_1^4(g(x))^2\\,dx=\\pi\\int_1^4(2x-2)\\,dx=\\pi\\left[x^2-2x\\right]_1^4=9\\pi.$$",
+    "punkte": 5,
+    
+    "sauce_fragenummer": "2",
+
+    "sauce_aufgaben_pdf_url": "https://eursc.sharepoint.com/sites/bacpastexams/PastExams/Forms/AllItems.aspx?id=%2Fsites%2Fbacpastexams%2FPastExams%2F2026%20MATH%205P%20A%20DE.pdf&parent=%2Fsites%2Fbacpastexams%2FPastExams",
+    "sauce_loesung_pdf_url": "https://eursc.sharepoint.com/sites/bacpastexams/PastExams/Forms/AllItems.aspx?id=%2Fsites%2Fbacpastexams%2FPastExams%2F2026%20MATH%205%20A%20DE%20L%C3%B6sung.pdf&parent=%2Fsites%2Fbacpastexams%2FPastExams",
+    "sauce_bac": "BAC 2026",
+    "teil": "A-Teil"
+  },
+  {
+    "oberthema": ["Analysis"],
+    "unterthema": ["Folgen", "Geometrische Folge"],
+    "frage": "Gegeben sind die Folgen $(u_n)$ und $(v_n)$ durch $$u_0=3,\\qquad u_{n+1}=2u_n+6$$ und $$v_n=u_n+6,\\qquad n\\in\\{0,1,2,3,\\ldots\\}.$$ Zeigen Sie, dass $(v_n)$ eine geometrische Folge ist und leiten Sie daraus $u_n$ in Abhängigkeit von $n$ her.",
+    "img_url": null,
+    "loesungsvorschlag": "$$v_{n+1}=u_{n+1}+6=2u_n+6+6=2(u_n+6)=2v_n.$$ Daher ist $(v_n)$ eine geometrische Folge mit dem gemeinsamen Verhältnis $r=2$. Es gilt $v_n=v_0\\cdot2^n=9\\cdot2^n$. Da $u_n=v_n-6$, folgt $$u_n=9\\cdot2^n-6,\\qquad n\\in\\{0,1,2,3,\\ldots\\}.$$",
+    "punkte": 5,
+    
+    "sauce_fragenummer": "3",
+
+    "sauce_aufgaben_pdf_url": "https://eursc.sharepoint.com/sites/bacpastexams/PastExams/Forms/AllItems.aspx?id=%2Fsites%2Fbacpastexams%2FPastExams%2F2026%20MATH%205P%20A%20DE.pdf&parent=%2Fsites%2Fbacpastexams%2FPastExams",
+    "sauce_loesung_pdf_url": "https://eursc.sharepoint.com/sites/bacpastexams/PastExams/Forms/AllItems.aspx?id=%2Fsites%2Fbacpastexams%2FPastExams%2F2026%20MATH%205%20A%20DE%20L%C3%B6sung.pdf&parent=%2Fsites%2Fbacpastexams%2FPastExams",
+    "sauce_bac": "BAC 2026",
+    "teil": "A-Teil"
+  },
+  {
+    "oberthema": ["Komplexe Zahlen", "Analytische Geometrie"],
+    "unterthema": ["Betrag einer komplexen Zahl", "Argument", "Komplexe Ebene", "Kreis"],
+    "frage": "Gegeben ist die komplexe Zahl $$w=\\frac{(2-2i)^2}{1+i}.$$ a) Zeigen Sie, dass $|w|=4\\sqrt{2}$ und bestimmen Sie $\\arg(w)$. b) Beschreiben Sie die Punktmenge in der komplexen Ebene, die alle Werte von $z$ darstellen, für die $|z-w|=|w|$ gilt.",
+    "img_url": null,
+    "loesungsvorschlag": "a) Es gilt $$w=\\frac{(2-2i)^2}{1+i}=-4-4i.$$ Damit ist $$|w|=\\sqrt{(-4)^2+(-4)^2}=4\\sqrt{2}.$$ Da $w$ im dritten Quadranten liegt, gilt $$\\arg(w)=-\\frac{3\\pi}{4}\\pmod{2\\pi}.$$ b) Die Bedingung $$|z-w|=|w|$$ beschreibt einen Kreis mit dem Mittelpunkt $w$ und dem Radius $|w|$. Der Mittelpunkt ist $(-4|-4)$ und der Radius beträgt $4\\sqrt{2}$.",
+    "punkte": 5,
+
+    "sauce_fragenummer": "4",
+
+    "sauce_aufgaben_pdf_url": "https://eursc.sharepoint.com/sites/bacpastexams/PastExams/Forms/AllItems.aspx?id=%2Fsites%2Fbacpastexams%2FPastExams%2F2026%20MATH%205P%20A%20DE.pdf&parent=%2Fsites%2Fbacpastexams%2FPastExams",
+    "sauce_loesung_pdf_url": "https://eursc.sharepoint.com/sites/bacpastexams/PastExams/Forms/AllItems.aspx?id=%2Fsites%2Fbacpastexams%2FPastExams%2F2026%20MATH%205%20A%20DE%20L%C3%B6sung.pdf&parent=%2Fsites%2Fbacpastexams%2FPastExams",
+    "sauce_bac": "BAC 2026",
+    "teil": "A-Teil"
+  },
+  {
+    "oberthema": ["Stochastik"],
+    "unterthema": ["Bedingte Wahrscheinlichkeit", "Baumdiagramm"],
+    "frage": "In einem großen Geflügelbetrieb sind 10% der Hühner infiziert. Das Vorhandensein dieses Virus wird durch einen Schnelltest nachgewiesen: Der Test ergibt bei 80% der infizierten Hühner ein positives Ergebnis. Der Test liefert auch bei 5% der nicht infizierten Hühner ein positives Ergebnis. Ein zufällig ausgewähltes Huhn wird getestet. a) Zeigen Sie, dass die Wahrscheinlichkeit, dass dieses Huhn ein positives Ergebnis hat, $\\frac18$ beträgt. b) Das Huhn hat ein positives Ergebnis. Berechnen Sie die Wahrscheinlichkeit, dass dieses Huhn tatsächlich infiziert ist.",
+    "img_url": null,
+    "loesungsvorschlag": "a) Es gilt $$P(\\text{positiv})=P(\\text{infiziert und positiv})+P(\\text{nicht infiziert und positiv})$$ $$=0{,}1\\cdot0{,}8+0{,}9\\cdot0{,}05=0{,}125=\\frac18.$$ b) Mit der bedingten Wahrscheinlichkeit ergibt sich $$P(\\text{infiziert}\\mid\\text{positiv})=\\frac{P(\\text{infiziert und positiv})}{P(\\text{positiv})}=\\frac{0{,}1\\cdot0{,}8}{0{,}125}=0{,}64.$$ Die Wahrscheinlichkeit beträgt somit 64%.",
+    "punkte": 5,
+
+    "sauce_fragenummer": "5",
+
+    "sauce_aufgaben_pdf_url": "https://eursc.sharepoint.com/sites/bacpastexams/PastExams/Forms/AllItems.aspx?id=%2Fsites%2Fbacpastexams%2FPastExams%2F2026%20MATH%205P%20A%20DE.pdf&parent=%2Fsites%2Fbacpastexams%2FPastExams",
+    "sauce_loesung_pdf_url": "https://eursc.sharepoint.com/sites/bacpastexams/PastExams/Forms/AllItems.aspx?id=%2Fsites%2Fbacpastexams%2FPastExams%2F2026%20MATH%205%20A%20DE%20L%C3%B6sung.pdf&parent=%2Fsites%2Fbacpastexams%2FPastExams",
+    "sauce_bac": "BAC 2026",
+    "teil": "A-Teil"
+  },
+  {
+    "oberthema": ["Stochastik"],
+    "unterthema": ["Wahrscheinlichkeitsdichtefunktion", "Stetige Zufallsvariable", "Erwartungswert", "Symmetrie"],
+    "frage": "Gegeben ist die Funktion $$f(x)=\\begin{cases}\\frac34(1-x^2),&-1\\leq x\\leq1,\\\\0,&x<-1\\text{ oder }x>1.\\end{cases}$$ a) Zeigen Sie, dass $f$ als Wahrscheinlichkeitsdichtefunktion verwendet werden kann. b) Es sei $X$ eine Zufallsvariable mit der Wahrscheinlichkeitsdichtefunktion $f$. Bestimmen Sie $P(X=0)$, $P(X\\leq0)$ und $E(X)$ und begründen Sie Ihre Ergebnisse.",
+    "img_url": null,
+    "loesungsvorschlag": "a) Für $-1\\leq x\\leq1$ gilt $1-x^2\\geq0$, also ist $f(x)\\geq0$. Außerhalb dieses Intervalls ist $f(x)=0$. Außerdem gilt $$\\int_{-1}^{1}\\frac34(1-x^2)\\,dx=\\left[\\frac34x-\\frac14x^3\\right]_{-1}^{1}=1.$$ Damit erfüllt $f$ die Bedingungen einer Wahrscheinlichkeitsdichtefunktion. b) Da $X$ stetig ist, gilt $$P(X=0)=0.$$ Wegen der Symmetrie der Dichtefunktion zur $y$-Achse gilt $$P(X\\leq0)=0{,}5.$$ Da $f$ gerade ist, ist $x\\cdot f(x)$ ungerade. Daher gilt $$E(X)=\\int_{-1}^{1}x f(x)\\,dx=0.$$",
+    "punkte": 6,
+
+    "sauce_fragenummer": "6",
+
+    "sauce_aufgaben_pdf_url": "https://eursc.sharepoint.com/sites/bacpastexams/PastExams/Forms/AllItems.aspx?id=%2Fsites%2Fbacpastexams%2FPastExams%2F2026%20MATH%205P%20A%20DE.pdf&parent=%2Fsites%2Fbacpastexams%2FPastExams",
+    "sauce_loesung_pdf_url": "https://eursc.sharepoint.com/sites/bacpastexams/PastExams/Forms/AllItems.aspx?id=%2Fsites%2Fbacpastexams%2FPastExams%2F2026%20MATH%205%20A%20DE%20L%C3%B6sung.pdf&parent=%2Fsites%2Fbacpastexams%2FPastExams",
+    "sauce_bac": "BAC 2026",
+    "teil": "A-Teil"
+  },
+  {
+    "oberthema": ["Analytische Geometrie"],
+    "unterthema": ["Ebenen", "Geraden", "Parallelität", "Orthogonale Projektion", "Spiegelung", "Gleichschenkliges Dreieck"],
+    "frage": "Im dreidimensionalen Raum seien gegeben die Ebenen $$\\pi_m:2x+my-z+m+1=0,\\qquad m\\in\\mathbb R,$$ sowie die Punkte $A(1|2|0)$ und $B(0|4|2)$. a) Zeigen Sie, dass der Punkt $A$ in der Ebene $\\pi_{-1}$ liegt. b) Bestimmen Sie den Wert von $m$, für den die Ebene $\\pi_m$ und die Gerade $AB$ parallel sind. c) $P$ ist die orthogonale Projektion von $B$ auf die Ebene $\\pi_{-1}$. $P$ ist der Mittelpunkt der Strecke $\\overline{BC}$. Bestimmen Sie die Koordinaten des Punktes $C$ und beweisen Sie, dass das Dreieck $ABC$ zwei Winkel mit gleichem Winkelmaß besitzt.",
+    "img_url": null,
+    "loesungsvorschlag": "a) Für $m=-1$ lautet die Ebenengleichung $$2x-y-z=0.$$ Einsetzen von $A(1|2|0)$ ergibt $$2\\cdot1-2-0=0.$$ Somit gilt $A\\in\\pi_{-1}$. b) Ein Richtungsvektor von $AB$ ist $$\\overrightarrow{AB}=\\begin{pmatrix}-1\\\\2\\\\2\\end{pmatrix}.$$ Ein Normalenvektor von $\\pi_m$ ist $$\\vec n=\\begin{pmatrix}2\\\\m\\\\-1\\end{pmatrix}.$$ Für die Parallelität von Gerade und Ebene muss $$\\vec n\\cdot\\overrightarrow{AB}=0$$ gelten. Also $$-2+2m-2=0,$$ woraus $$m=2$$ folgt. c) Die Gerade durch $B$, die senkrecht auf $\\pi_{-1}$ steht, hat die Darstellung $$\\begin{pmatrix}x\\\\y\\\\z\\end{pmatrix}=\\begin{pmatrix}0\\\\4\\\\2\\end{pmatrix}+\\lambda\\begin{pmatrix}2\\\\-1\\\\-1\\end{pmatrix}.$$ Der Schnittpunkt mit $\\pi_{-1}$ ergibt $\\lambda=1$ und damit $P=(2|3|1)$. Da $P$ Mittelpunkt von $BC$ ist, gilt $$C=2P-B=(4|2|0).$$ Die Punkte $B$ und $C$ sind bezüglich der Ebene $\\pi_{-1}$ symmetrisch und $A$ liegt in dieser Ebene. Daher gilt $AB=AC=3$. Das Dreieck $ABC$ ist somit gleichschenklig und die Winkel $\\angle ABC$ und $\\angle BCA$ sind gleich groß.",
+    "punkte": 9,
+    
+    "sauce_fragenummer": "7",
+
+    "sauce_aufgaben_pdf_url": "https://eursc.sharepoint.com/sites/bacpastexams/PastExams/Forms/AllItems.aspx?id=%2Fsites%2Fbacpastexams%2FPastExams%2F2026%20MATH%205P%20A%20DE.pdf&parent=%2Fsites%2Fbacpastexams%2FPastExams",
+    "sauce_loesung_pdf_url": "https://eursc.sharepoint.com/sites/bacpastexams/PastExams/Forms/AllItems.aspx?id=%2Fsites%2Fbacpastexams%2FPastExams%2F2026%20MATH%205%20A%20DE%20L%C3%B6sung.pdf&parent=%2Fsites%2Fbacpastexams%2FPastExams",
+    "sauce_bac": "BAC 2026",
+    "teil": "A-Teil"
+  },
+  {
+    "oberthema": ["Analysis"],
+    "unterthema": ["Exponentialfunktionen", "Grenzwerte", "Monotonie", "Schnittpunkte mit Achsen", "Integralrechnung", "Flächeninhalt"],
+    "frage": "Gegeben ist die Funktion $$f(x)=e^{-2x}-e^{-2}x.$$ Der Graph von $f$ ist rechts abgebildet. a) Geben Sie die Koordinaten des Schnittpunkts des Graphen von $f$ mit der $y$-Achse an. b) Bestimmen Sie $$\\lim_{x\\to+\\infty}f(x)$$ und $$\\lim_{x\\to-\\infty}f(x).$$ c) Zeigen Sie, dass der einzige Schnittpunkt des Graphen von $f$ mit der $x$-Achse der Punkt mit den Koordinaten $(1|0)$ ist. d) Berechnen Sie den Flächeninhalt des schattierten Bereichs, der durch den Graphen von $f$ und die Koordinatenachsen begrenzt wird.",
+    "img_url": "BILDER URL GEBRAUCHT",
+    "loesungsvorschlag": "a) Es gilt $$f(0)=1.$$ Daher ist der Schnittpunkt mit der $y$-Achse $(0|1)$. b) Für $x\\to+\\infty$ gilt $$e^{-2x}\\to0$$ und $-e^{-2}x\\to-\\infty,$$ also $$\\lim_{x\\to+\\infty}f(x)=-\\infty.$$ Für $x\\to-\\infty$ gilt $$e^{-2x}\\to+\\infty$$ und $-e^{-2}x\\to+\\infty,$$ also $$\\lim_{x\\to-\\infty}f(x)=+\\infty.$$ c) Es gilt $$f(1)=e^{-2}-e^{-2}=0,$$ also liegt $(1|0)$ auf dem Graphen und der $x$-Achse. Außerdem gilt $$f'(x)=-2e^{-2x}-e^{-2}<0$$ für alle $x\\in\\mathbb R$. Somit ist $f$ streng monoton fallend und kann die $x$-Achse nur einmal schneiden. Der einzige Schnittpunkt ist daher $(1|0)$. d) Der gesuchte Flächeninhalt ist $$A=\\int_0^1f(x)\\,dx=\\int_0^1\\left(e^{-2x}-e^{-2}x\\right)dx.$$ Eine Stammfunktion ist $$-\\frac12e^{-2x}-\\frac12e^{-2}x^2.$$ Damit folgt $$A=\\left[-\\frac12e^{-2x}-\\frac12e^{-2}x^2\\right]_0^1=\\frac12- e^{-2}=\\frac{e^2-2}{2e^2}.$$",
+    "punkte": 10,
+
+    "sauce_fragenummer": "8",
+
+    "sauce_aufgaben_pdf_url": "https://eursc.sharepoint.com/sites/bacpastexams/PastExams/Forms/AllItems.aspx?id=%2Fsites%2Fbacpastexams%2FPastExams%2F2026%20MATH%205P%20A%20DE.pdf&parent=%2Fsites%2Fbacpastexams%2FPastExams",
+    "sauce_loesung_pdf_url": "https://eursc.sharepoint.com/sites/bacpastexams/PastExams/Forms/AllItems.aspx?id=%2Fsites%2Fbacpastexams%2FPastExams%2F2026%20MATH%205%20A%20DE%20L%C3%B6sung.pdf&parent=%2Fsites%2Fbacpastexams%2FPastExams",
+    "sauce_bac": "BAC 2026",
+    "teil": "A-Teil"
+  }
+]

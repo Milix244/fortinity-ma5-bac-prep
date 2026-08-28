@@ -1,0 +1,29 @@
+[
+    {
+        "oberthema": ["Analysis", "Analytische Geometrie", "Stochastik"],
+        "unterthema": ["Abstand im Raum", "Ableitung von Polynomfunktionen", "Binomialverteilung", "Integration rationaler Funktionen"],
+
+        "stammfrage": null,
+        "img_url": null,
+        "einzelfragen": [
+            {"alphabet": "a", "frage": "Berechnen Sie den Abstand zwischen den Punkten mit den Koordinaten $(2|-2|1)$ und $(1|0|3)$.", "punkte": 1},
+            {"alphabet": "b", "frage": "Gegeben sei die Funktion $f$ durch $$f(x)=3x^2-4x.$$ Bestimmen Sie einen Ausdruck für die Ableitungsfunktion von $f$.", "punkte": 1},
+            {"alphabet": "c", "frage": "$X$ ist eine Zufallsvariable, die einer Binomialverteilung mit $n = 100$ und $p = 0{,}2$ folgt.  Berechnen Sie die Standardabweichung $\\sigma(X)$.", "punkte": 1},
+            {"alphabet": "d", "frage": "Berechnen Sie $\\displaystyle \\int_0^1 \\frac{1}{x+1}dx$", "punkte": 2}
+
+        ],
+        "loesungvorschlaege": [
+            {"alphabet": "a", "loesungvorschlag": "Abstand $\\sqrt{(-1)^2 + 2^2 + 2^2} = 3$."},
+            {"alphabet": "b", "loesungvorschlag": "$$f'(x)=6x-4$$"},
+            {"alphabet": "c", "loesungvorschlag": "$$ \\sigma (X) = \\sqrt{npq} =  \\sqrt{16} = 4 $$"},
+            {"alphabet": "d", "loesungvorschlag": "$$ \\int_0^1 \\frac{1}{x+1}dx = \\left[\\ln(x+1)\\right]_0^1 = \\ln(2)-\\ln(1) = \\ln(2). $$"}
+        ],
+
+        "sauce_aufgaben_pdf_url": "https://eursc.sharepoint.com/sites/bacpastexams/PastExams/Forms/AllItems.aspx?id=%2Fsites%2Fbacpastexams%2FPastExams%2F2026%20MATH%205P%20A%20DE.pdf&parent=%2Fsites%2Fbacpastexams%2FPastExams",
+        "sauce_loesung_pdf_url": "https://eursc.sharepoint.com/sites/bacpastexams/PastExams/Forms/AllItems.aspx?id=%2Fsites%2Fbacpastexams%2FPastExams%2F2026%20MATH%205%20A%20DE%20L%C3%B6sung.pdf&parent=%2Fsites%2Fbacpastexams%2FPastExams",
+        "sauce_bac": "BAC 2026",
+        "sauce_fragenummer": "1",
+        "teil": "A-Teil"
+    }
+    
+]

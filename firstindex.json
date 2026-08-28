@@ -1,0 +1,123 @@
+{
+  "oberthemen": {
+    "Analytische Geometrie": [
+      "BAC_2026_A-Teil_T1_SQ0",
+      "BAC_2026_A-Teil_T4_SQ0",
+      "BAC_2026_A-Teil_T7_SQ0"
+    ],
+    "Analysis": [
+      "BAC_2026_A-Teil_T1_SQ1",
+      "BAC_2026_A-Teil_T1_SQ3",
+      "BAC_2026_A-Teil_T2_SQ0",
+      "BAC_2026_A-Teil_T3_SQ0",
+      "BAC_2026_A-Teil_T8_SQ0"
+    ],
+    "Stochastik": [
+      "BAC_2026_A-Teil_T1_SQ2",
+      "BAC_2026_A-Teil_T5_SQ0",
+      "BAC_2026_A-Teil_T6_SQ0"
+    ],
+    "Komplexe Zahlen": [
+      "BAC_2026_A-Teil_T4_SQ0"
+    ]
+  },
+  "unterthemen": {
+    "Abstand zweier Punkte": [
+      "BAC_2026_A-Teil_T1_SQ0"
+    ],
+    "Ableitung": [
+      "BAC_2026_A-Teil_T1_SQ1"
+    ],
+    "Binomialverteilung": [
+      "BAC_2026_A-Teil_T1_SQ2"
+    ],
+    "Standardabweichung": [
+      "BAC_2026_A-Teil_T1_SQ2"
+    ],
+    "Integration": [
+      "BAC_2026_A-Teil_T1_SQ3"
+    ],
+    "Bestimmtes Integral": [
+      "BAC_2026_A-Teil_T1_SQ3"
+    ],
+    "Integralrechnung": [
+      "BAC_2026_A-Teil_T2_SQ0",
+      "BAC_2026_A-Teil_T8_SQ0"
+    ],
+    "Rotationskörper": [
+      "BAC_2026_A-Teil_T2_SQ0"
+    ],
+    "Volumen": [
+      "BAC_2026_A-Teil_T2_SQ0"
+    ],
+    "Folgen": [
+      "BAC_2026_A-Teil_T3_SQ0"
+    ],
+    "Geometrische Folge": [
+      "BAC_2026_A-Teil_T3_SQ0"
+    ],
+    "Betrag einer komplexen Zahl": [
+      "BAC_2026_A-Teil_T4_SQ0"
+    ],
+    "Argument": [
+      "BAC_2026_A-Teil_T4_SQ0"
+    ],
+    "Komplexe Ebene": [
+      "BAC_2026_A-Teil_T4_SQ0"
+    ],
+    "Kreis": [
+      "BAC_2026_A-Teil_T4_SQ0"
+    ],
+    "Bedingte Wahrscheinlichkeit": [
+      "BAC_2026_A-Teil_T5_SQ0"
+    ],
+    "Baumdiagramm": [
+      "BAC_2026_A-Teil_T5_SQ0"
+    ],
+    "Wahrscheinlichkeitsdichtefunktion": [
+      "BAC_2026_A-Teil_T6_SQ0"
+    ],
+    "Stetige Zufallsvariable": [
+      "BAC_2026_A-Teil_T6_SQ0"
+    ],
+    "Erwartungswert": [
+      "BAC_2026_A-Teil_T6_SQ0"
+    ],
+    "Symmetrie": [
+      "BAC_2026_A-Teil_T6_SQ0"
+    ],
+    "Ebenen": [
+      "BAC_2026_A-Teil_T7_SQ0"
+    ],
+    "Geraden": [
+      "BAC_2026_A-Teil_T7_SQ0"
+    ],
+    "Parallelität": [
+      "BAC_2026_A-Teil_T7_SQ0"
+    ],
+    "Orthogonale Projektion": [
+      "BAC_2026_A-Teil_T7_SQ0"
+    ],
+    "Spiegelung": [
+      "BAC_2026_A-Teil_T7_SQ0"
+    ],
+    "Gleichschenkliges Dreieck": [
+      "BAC_2026_A-Teil_T7_SQ0"
+    ],
+    "Exponentialfunktionen": [
+      "BAC_2026_A-Teil_T8_SQ0"
+    ],
+    "Grenzwerte": [
+      "BAC_2026_A-Teil_T8_SQ0"
+    ],
+    "Monotonie": [
+      "BAC_2026_A-Teil_T8_SQ0"
+    ],
+    "Schnittpunkte mit Achsen": [
+      "BAC_2026_A-Teil_T8_SQ0"
+    ],
+    "Flächeninhalt": [
+      "BAC_2026_A-Teil_T8_SQ0"
+    ]
+  }
+}

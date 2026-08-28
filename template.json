@@ -1,0 +1,31 @@
+[
+    {
+        "oberthema": [""],
+        "unterthema": ["", ""],
+
+        "frage": "",
+        "img_url": "",
+        "loesungsvorschlag": "",
+        "punkte": "",
+
+        "sauce_fragenummer": "",
+
+        "sauce_aufgaben_pdf_url": "",
+        "sauce_loesung_pdf_url": "",
+        "sauce_bac": "",
+        "teil": ""
+    },
+    {
+        "oberthema": ["", ""],
+        "unterthema": ["", ""],
+
+        "frage": "",
+        "img_url": "",
+        "loesungsvorschlag": "",
+        "punkte": "",
+
+        "sauce_fragenummer": "",
+        
+        "_sauce": "BLANK"
+    }
+]
